@@ -1,1 +1,1 @@
-# Stock-E
+Inventory Management App
